@@ -5,7 +5,7 @@ This repository serves as a comprehensive exploration of the rapidly evolving We
 
 # Quick Links
 [Readme.md](https://github.com/GuerrillaBuzz/The-Web3-Developer-Ecosystem-Landscape/blob/main/README.md) - Intro of this Repo
-[web3_categories.md] (https://github.com/GuerrillaBuzz/The-Web3-Developer-Ecosystem-Landscape/blob/main/web3_categories.md) - Categories Explored
+[web3_categories.md](https://github.com/GuerrillaBuzz/The-Web3-Developer-Ecosystem-Landscape/blob/main/web3_categories.md) - Categories Explored
 
 
 # About
