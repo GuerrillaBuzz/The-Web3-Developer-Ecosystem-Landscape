@@ -116,3 +116,8 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     <li> Self-Sovereign Identity Solutions </li>
     <li> DID Frameworks and Standards </li>
 </ul>
+
+<h3> M. Decentralized File Storage: </h3>
+<ul>
+    <li> Blockchain-based File Storage Solutions </li>
+</ul>
