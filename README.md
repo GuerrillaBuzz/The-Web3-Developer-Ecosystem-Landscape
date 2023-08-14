@@ -10,9 +10,9 @@ The Web3 Developer Ecosystem Mapping project aims to provide a structured framew
 <ol>
 <li> Core Infrastructure: Uncover the foundational layers, network infrastructure, bridges, and interoperability solutions that underpin the Web3 ecosystem. </li>
 
-<li> Development Tools & Environments: Dive into the tools, SDKs, APIs, and languages empowering developers to create Web3 applications.</li>
+<li> <b>Development Tools & Environments: </b> Dive into the tools, SDKs, APIs, and languages empowering developers to create Web3 applications.</li>
 
-<li> Data Management & Analysis: Explore data storage, analytics, and APIs that enable insights into the decentralized world.</li>
+<li> <b>Data Management & Analysis: </b> Explore data storage, analytics, and APIs that enable insights into the decentralized world.</li>
 
 <li> Security & Compliance: Discover security solutions, risk management tools, and smart contract templates to ensure a secure ecosystem.</li>
 
