@@ -1,10 +1,17 @@
 # Web3 Developer Ecosystem Mapping
-Welcome to the Web3 Developer Ecosystem Mapping repository! 🌐🚀
+Welcome to the GuerrillaBuzz Web3 Developer Ecosystem Mapping repository! 🌐🚀
 
 This repository serves as a comprehensive exploration of the rapidly evolving Web3 developer landscape. Our mission is to categorize and analyze the diverse components, technologies, and trends that shape the future of decentralized technologies, blockchain, and beyond.
 
 # About
-The Web3 Developer Ecosystem Mapping project aims to provide a structured framework for understanding the intricate and multifaceted nature of the Web3 space. By systematically categorizing various segments, this repository offers insights into how different components interconnect, evolve, and contribute to the growth of the ecosystem.
+
+Having dedicated many years to marketing and PR campaigns within the blockchain sphere, I’ve had the opportunity to observe numerous market trends. The current bear market, however, stands out. Companies are building solid technologies, and they’re backed by respected VCs who carefully evaluate each investment. This shift is particularly apparent in the Web3 sector.
+
+According to [Chainlink](https://blog.chain.link/web3-metrics/), this trend could lead Web3 to disrupt $827 trillion USD by 2031.
+
+At GuerrillaBuzz, we’ve undertaken a detailed examination of the Web3 developer ecosystem, categorizing various companies and projects into specific groups. This mapping has enabled us to better understand the structure and growth of an industry that’s steadily maturing and laying the foundation for a robust future.
+
+The project aims to provide a structured framework for understanding the intricate and multifaceted nature of the Web3 space. By systematically categorizing various segments, this repository offers insights into how different components interconnect, evolve, and contribute to the growth of the ecosystem.
 
 # Categories Explored
 <ol>
