@@ -27,10 +27,10 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     </ul>
 </ol>
 
-<ol>   
+ 
 
 <h3> B. Development Tools & Environments: </h3>
-
+<ol>  
 <li> Development Environments </li>
     <ul>
         <li>	Testnets for Experimentation </li>
@@ -49,60 +49,45 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     </ul>
 </ol>
 
-<ol>
-
 <h3> C. Data Management & Analysis: </h3>
-
-<li>	Data Storage Solutions </li>
-<li>	API Indexing & Querying </li>
-<li>	Analytics & Reporting </li>
-<li>	Libraries for Data Manipulation </li>
-</ol>
-
 <ol>
+    <li>	Data Storage Solutions </li>
+    <li>	API Indexing & Querying </li>
+    <li>	Analytics & Reporting </li>
+    <li>	Libraries for Data Manipulation </li>
+</ol>
 
 <h3> D. Security & Compliance: </h3>
-
-<li>	Security Solutions </li>
-<li>	Risk Management & Auditing </li>
-<li>	Secure Smart Contract Templates </li>
-
-</ol>
-
 <ol>
+    <li>	Security Solutions </li>
+    <li>	Risk Management & Auditing </li>
+    <li>	Secure Smart Contract Templates </li>
+</ol>
 
 <h3> E. Trading & Financial Services (DeFi): </h3>
-
-<li>	Decentralized Exchanges (DEXs) </li>
-<li>	Wallet Infrastructure & Management </li>
-
-</ol>
-
 <ol>
+    <li>	Decentralized Exchanges (DEXs) </li>
+    <li>	Wallet Infrastructure & Management </li>
+</ol>
 
 <h3> F. User Interaction & Engagement: </h3>
-
-<li>	Oracles for External Data </li>
-<li>	NFT Marketplaces & APIs </li>
-<li>	Social Interaction Platforms </li>
-<li>	Identity Solutions </li>
-
-</ol>
-
 <ol>
+    <li>	Oracles for External Data </li>
+    <li>	NFT Marketplaces & APIs </li>
+    <li>	Social Interaction Platforms </li>
+    <li>	Identity Solutions </li>
+</ol>
 
 <h3> G. Specialized Development Fields: </h3>
-
-<li>	DAO Platforms & Tools </li>
-<li>	Blockchain Game Development </li>
-<li>	Metaverse Development </li>
-<li>	Blockchain Automation </li>
-
+<ol>
+    <li>	DAO Platforms & Tools </li>
+    <li>	Blockchain Game Development </li>
+    <li>	Metaverse Development </li>
+    <li>	Blockchain Automation </li>
 </ol>
 
-<ol>
 <h3> H. Education & Resources: </h3>
-<li>	Educational Platforms & Tutorials </li>
-<li>	Testing & Quality Assurance Tools </li>
-
+<ol>
+    <li>	Educational Platforms & Tutorials </li>
+    <li>	Testing & Quality Assurance Tools </li>
 </ol>
