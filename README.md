@@ -8,23 +8,23 @@ The Web3 Developer Ecosystem Mapping project aims to provide a structured framew
 
 # Categories Explored
 <ol>
-<li> Core Infrastructure: Uncover the foundational layers, network infrastructure, bridges, and interoperability solutions that underpin the Web3 ecosystem. </li>
-
-<li> <b>Development Tools & Environments: </b> Dive into the tools, SDKs, APIs, and languages empowering developers to create Web3 applications.</li>
-
-<li> <b>Data Management & Analysis: </b> Explore data storage, analytics, and APIs that enable insights into the decentralized world.</li>
-
-<li> Security & Compliance: Discover security solutions, risk management tools, and smart contract templates to ensure a secure ecosystem.</li>
-
-<li> Trading & Financial Services: Investigate decentralized exchanges and wallet infrastructure shaping the financial aspects of Web3. </li>
-
-<li> User Interaction & Engagement: Delve into oracles, NFT marketplaces, social platforms, and identity solutions driving user engagement. </li>
-
-<li> Specialized Development Fields: Learn about DAO platforms, metaverse and game development, and blockchain automation. </li>
-
-<li> Education & Resources: Access educational platforms, testing tools, and resources to empower the Web3 developer community. </li>
-
-<li> Emerging Trends: Stay updated with emerging categories like DeFi infrastructure, cross-chain solutions, decentralized identity, and more. </li>
+  <li> <b>Core Infrastructure:</b> Uncover the foundational layers, network infrastructure, bridges, and interoperability solutions that underpin the Web3 ecosystem. </li>
+  
+  <li> <b>Development Tools & Environments: </b> Dive into the tools, SDKs, APIs, and languages empowering developers to create Web3 applications.</li>
+  
+  <li> <b>Data Management & Analysis: </b> Explore data storage, analytics, and APIs that enable insights into the decentralized world.</li>
+  
+  <li> <b>Security & Compliance: </b> Discover security solutions, risk management tools, and smart contract templates to ensure a secure ecosystem.</li>
+  
+  <li> <b>Trading & Financial Services: </b> Investigate decentralized exchanges and wallet infrastructure shaping the financial aspects of Web3. </li>
+  
+  <li> <b>User Interaction & Engagement: </b> Delve into oracles, NFT marketplaces, social platforms, and identity solutions driving user engagement. </li>
+  
+  <li> <b>Specialized Development Fields: </b> Learn about DAO platforms, metaverse and game development, and blockchain automation. </li>
+  
+  <li> <b>Education & Resources: </b> Access educational platforms, testing tools, and resources to empower the Web3 developer community. </li>
+  
+  <li> <b>Emerging Trends: </b> Stay updated with emerging categories like DeFi infrastructure, cross-chain solutions, decentralized identity, and more. </li>
 </ol>
 
 # Contribution
@@ -32,10 +32,10 @@ We welcome contributions from the community to enhance and expand our understand
 
 # How to Contribute
 <ol>
-<li> Fork the repository.</li>
-<li> Create a new branch for your contributions.</li>
-<li> Make your changes and additions. </li>
-<li> Submit a pull request detailing your changes. </li>
+  <li> Fork the repository.</li>
+  <li> Create a new branch for your contributions.</li>
+  <li> Make your changes and additions. </li>
+  <li> Submit a pull request detailing your changes. </li>
 </ol>
 
 Let's collaborate and build a comprehensive map of the Web3 developer ecosystem together. Join us in unraveling the potential and possibilities of the decentralized future.
