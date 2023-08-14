@@ -14,8 +14,10 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 # A. Infrastructure:
 <ol>
 <li>	Layered Architecture </li>
-        •	Layer 1 Blockchains
-        •	Layer 2/Rollups Solutions
+    <ul>
+        <li>	Layer 1 Blockchains </li>
+        <li>	Layer 2/Rollups Solutions </li>
+    </ul>
 <li>	Network Infrastructure </li>
         •	Node Management Tools
         •	Bridging Technologies
