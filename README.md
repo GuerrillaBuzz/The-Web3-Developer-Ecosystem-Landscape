@@ -46,7 +46,7 @@ We welcome contributions from the community to enhance and expand our understand
 <ol>
   <li> Fork the repository.</li>
   <li> Create a new branch for your contributions.</li>
-  <li> Make your changes and additions. </li>
+  <li> Make your changes and additions in the web3_categories.md file. </li>
   <li> Submit a pull request detailing your changes. </li>
 </ol>
 
