@@ -4,7 +4,7 @@ Welcome to the GuerrillaBuzz Web3 Developer Ecosystem Mapping repository! üåêü
 This repository serves as a comprehensive exploration of the rapidly evolving Web3 developer landscape. Our mission is to categorize and analyze the diverse components, technologies, and trends that shape the future of decentralized technologies, blockchain, and beyond.
 
 # Quick Links
-[Readme.md](https://github.com/GuerrillaBuzz/The-Web3-Developer-Ecosystem-Landscape/blob/main/README.md) - Intro of this Repo
+[Readme.md](https://github.com/GuerrillaBuzz/The-Web3-Developer-Ecosystem-Landscape/blob/main/README.md) - Intro of this Repo <br>
 [web3_categories.md](https://github.com/GuerrillaBuzz/The-Web3-Developer-Ecosystem-Landscape/blob/main/web3_categories.md) - Categories Explored
 
 
