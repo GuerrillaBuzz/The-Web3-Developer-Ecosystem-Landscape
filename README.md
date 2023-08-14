@@ -37,6 +37,8 @@ The project aims to provide a structured framework for understanding the intrica
   <li> <b>Education & Resources: </b> Access educational platforms, testing tools, and resources to empower the Web3 developer community. </li>
   
   <li> <b>Emerging Trends: </b> Stay updated with emerging categories like DeFi infrastructure, cross-chain solutions, decentralized identity, and more. </li>
+
+  [More](https://github.com/GuerrillaBuzz/The-Web3-Developer-Ecosystem-Landscape/blob/main/web3_categories.md)
 </ol>
 
 # Contribution
