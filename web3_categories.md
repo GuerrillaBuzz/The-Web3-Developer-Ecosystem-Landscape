@@ -11,7 +11,8 @@ This categorization process isn't a mere exercise in classification; it is a dyn
 Through this methodology, we invite you to embark on a journey of discovery, as we map out the core infrastructure, development tools, data management, security measures, user interactions, and specialized domains that define the Web3 landscape. Together, we unlock insights that inspire innovation, collaboration, and a holistic understanding of the Web3 developer ecosystem's unfolding narrative.
 
 
-# A. Infrastructure:
+<h3> A. Infrastructure: </h3>
+
 <ol>
 <li>	Layered Architecture </li>
     <ul>
@@ -19,29 +20,39 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
         <li>	Layer 2/Rollups Solutions </li>
     </ul>
 <li>	Network Infrastructure </li>
-        •	Node Management Tools
-        •	Bridging Technologies
-        •	Interoperability Solutions
+    <ul>
+        <li>	Node Management Tools </li>
+        <li>	Bridging Technologies </li>
+        <li>	Interoperability Solutions </li>
+    </ul>
 </ol>
 
 <ol>   
 
-# B. Development Tools & Environments:
+<h3> B. Development Tools & Environments: </h3>
+
 <li> Development Environments </li>
-        •	Testnets for Experimentation
-        •	IDEs and IDE Extensions
+    <ul>
+        <li>	Testnets for Experimentation </li>
+        <li>	IDEs and IDE Extensions </li>
+    </ul>
 <li>	Developer Frameworks & Tools </li>
-        •	Frameworks for Rapid Development
-        •	Tools for Smart Contract Development
+    <ul>
+        <li>	Frameworks for Rapid Development </ul>
+        <li>	Tools for Smart Contract Development </ul>
+    </ul>
 <li>	SDKs & APIs </li>
 <li>	Accessibility Tools </li>
-        •	Low/No Code Platforms
-        •	Programming Languages and Libraries
+    <ul>
+        <li>	Low/No Code Platforms </li>
+        <li>	Programming Languages and Libraries </li>
+    </ul>
 </ol>
 
 <ol>
 
-# C. Data Management & Analysis:
+<h3> C. Data Management & Analysis: </h3>
+
 <li>	Data Storage Solutions </li>
 <li>	API Indexing & Querying </li>
 <li>	Analytics & Reporting </li>
@@ -50,7 +61,8 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 <ol>
 
-# D. Security & Compliance:
+<h3> D. Security & Compliance: </h3>
+
 <li>	Security Solutions </li>
 <li>	Risk Management & Auditing </li>
 <li>	Secure Smart Contract Templates </li>
@@ -59,7 +71,8 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 <ol>
 
-# E. Trading & Financial Services (DeFi):
+<h3> E. Trading & Financial Services (DeFi): </h3>
+
 <li>	Decentralized Exchanges (DEXs) </li>
 <li>	Wallet Infrastructure & Management </li>
 
@@ -67,7 +80,8 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 <ol>
 
-# F. User Interaction & Engagement:
+<h3> F. User Interaction & Engagement: </h3>
+
 <li>	Oracles for External Data </li>
 <li>	NFT Marketplaces & APIs </li>
 <li>	Social Interaction Platforms </li>
@@ -77,7 +91,8 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 <ol>
 
-# G. Specialized Development Fields:
+<h3> G. Specialized Development Fields: </h3>
+
 <li>	DAO Platforms & Tools </li>
 <li>	Blockchain Game Development </li>
 <li>	Metaverse Development </li>
@@ -86,8 +101,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 </ol>
 
 <ol>
-
-# H. Education & Resources:
+<h3> H. Education & Resources: </h3>
 <li>	Educational Platforms & Tutorials </li>
 <li>	Testing & Quality Assurance Tools </li>
 
