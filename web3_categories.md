@@ -96,7 +96,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 - Cross-Chain Bridges and Protocols 
 - Interoperability Projects 
 
-<h3>  12. Decentralized Identity (DID): </h3>
+<h3> 12. Decentralized Identity (DID): </h3>
 
  - Self-Sovereign Identity Solutions
  - DID Frameworks and Standards 
