@@ -36,7 +36,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
  
     - Tools for Smart Contract Development 
     
-- SDKs & APIs
+- SDKs & APIs [Kryptokrona-Kotlin-SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk)[Portals-fi](https://portals.fi/)	[Myria](https://myria.com/)	[Kurtosis](https://www.kurtosis.com/) [QuickNode](https://www.quicknode.com/) [Peaze](https://www.peaze.com/)[Etherspot-SDK](https://etherspot.io/)	[Alchemy-SDK](https://www.alchemy.com/sdk)
 - Accessibility Tools
    - Low/No Code Platforms [ChainJet](https://chainjet.io/)	[Thirdweb](https://thirdweb.com/)	[WebStudio](https://www.webstudio.so/)	[Bildr](https://www.bildr.com/)	[Alchemy(Web3-Dapp)](https://www.alchemy.com/dapps/create-web3-dapp) [Directual](https://www.directual.com/)	[Bunzz](https://www.bunzz.dev/)
    - Programming Languages and Libraries [Solidity](https://soliditylang.org/)	[Rust](https://www.rust-lang.org/)	[Vyper](https://docs.vyperlang.org/)	[Plutus](https://plutus.readthedocs.io/en/latest/tutorials/) [Marlowe](https://play.marlowe-finance.io/#/) [Aiken](https://github.com/aiken-lang/aiken)	[Huff](https://huff.sh/)	[Move](https://move-book.com/)	[Cairo](https://www.cairo-lang.org/)	[Go](https://go.dev/)	[Javascript](https://www.javascript.com/)
@@ -53,12 +53,12 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 - Security Solutions 	[Forta](https://forta.org/)	[Harpie](https://harpie.io/) [Splunk](https://www.splunk.com/en_us/home-page.html)
 - Risk Management & Auditing 
-- Secure Smart Contract Templates 
+- Secure Smart Contract Templates [Cookbook] https://www.cookbook.dev/ [OpenZeppelin](https://www.openzeppelin.com/contracts)[Boring-Solidity](https://github.com/boringcrypto/BoringSolidity) [Solmate](https://github.com/transmissions11/solmate)
 
 <h3> 5. Trading & Financial Services (DeFi): </h3>
 
 - Decentralized Exchanges (DEXs) 
-- Wallet Infrastructure & Management [Rhinestone](https://www.rhinestone.tech/) [WalletConnect](https://walletconnect.com/)[WalletOS(Pine-Street-Labs)](https://www.pinestreetlabs.com/)[Wallet-Onboard(Plaid)](https://plaid.com/wallet-onboard/) [RainbowKit](https://www.rainbowkit.com/) [Dfns](https://www.dfns.co/)	[Triangle](https://www.triangleplatform.com/)	[Metamask](https://metamask.io/)[Zerion] (https://zerion.io/)
+- Wallet Infrastructure & Management [Rhinestone](https://www.rhinestone.tech/) [WalletConnect](https://walletconnect.com/)[WalletOS(Pine-Street-Labs)](https://www.pinestreetlabs.com/)[Wallet-Onboard(Plaid)](https://plaid.com/wallet-onboard/) [RainbowKit](https://www.rainbowkit.com/) [Dfns](https://www.dfns.co/)[Triangle](https://www.triangleplatform.com/) [Metamask](https://metamask.io/)[Zerion](https://zerion.io/)
 
 <h3> 6. User Interaction & Engagement: </h3>
 
