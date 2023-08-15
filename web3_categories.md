@@ -14,8 +14,8 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 <h3> 1. Infrastructure: </h3>
 
 - Layered Architecture
-    - Layer 1 Blockchains [Ethereum](https://ethereum.org/en/) [Solana](https://solana.com/) [Tron](https://tron.network/) 
-    - Layer 2/Rollups Solutions [Arbitrum](https://arbitrum.io/) [Polygon(Matic)](https://polygon.technology/) 	[Optimism](https://www.optimism.io/)
+    - Layer 1 Blockchains [Ethereum](https://ethereum.org/en/) [Solana](https://solana.com/) [Tron](https://tron.network/) [BNB-Smart-Chain](https://bnbsmartchain.com/) [Avalanche](https://www.avax.network/)	[Cosmos](https://cosmos.network/)	[Bitcoin](https://bitcoin.org/)	[Cardano](https://cardano.org/)	[Algorand](https://algorand.com/)	[Near](https://near.org/)
+    - Layer 2/Rollups Solutions [Arbitrum](https://arbitrum.io/) [Polygon(Matic)](https://polygon.technology/) 	[Optimism](https://www.optimism.io/) [Zksync-Era](https://zksync.io/)	[Starknet](https://www.starknet.io/)	[Arbitrum-Nova](https://nova.arbitrum.io/)	[Linea](https://linea.build/)	[Scroll](https://scroll.io/)	
 
 - Network Infrastructure
     - Node Management Tools 
@@ -43,7 +43,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 <h3> 3. Data Management & Analysis: </h3>
 
-- Data Storage Solutions 
+- Data Storage Solutions [IPFS](https://ipfs.tech/)	[Arweave](https://www.arweave.org/)	[Filecoin](https://filecoin.io/)	[Sia](https://sia.tech/)	[Ceramic](https://ceramic.network/)	[Tableland](https://tableland.xyz/)	[Web3-Storage](https://web3.storage/) [KYVE-Network](https://www.kyve.network/) [Tableland](https://tableland.xyz/)
 - API Indexing & Querying 
 - Analytics & Reporting 
 - Libraries for Data Manipulation 
