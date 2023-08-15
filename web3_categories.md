@@ -15,7 +15,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 - Layered Architecture
     - Layer 1 Blockchains [Ethereum](https://ethereum.org/en/) [Solana](https://solana.com/) [Tron](https://tron.network/) 
-    - Layer 2/Rollups Solutions
+    - Layer 2/Rollups Solutions [Arbitrum](https://arbitrum.io/) [Polygon(Matic)](https://polygon.technology/) 	[Optimism](https://www.optimism.io/)
 
 - Network Infrastructure
     - Node Management Tools 
@@ -28,7 +28,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 <h3> 2. Development Tools & Environments: </h3>
 
 - Development Environments 
-    - Testnets for Experimentation
+    - Testnets for Experimentation [Goerli(Ethereum)](https://goerli.net/)	[Sepolia(Ethereum)](https://sepolia.dev/)	[Mumbai(Polygon)](https://docs.polygonscan.com/v/mumbai-polygonscan/)	[Fuji-Testnet(Avalanche)](https://www.avax.network/) [BNB-Smart-Chain(Testnet)](https://bnbsmartchain.com/) [Scroll-Alpha(Testnet)](https://guide.scroll.io/) [Solana(Testnet)](https://docs.solana.com/clusters)[Shasta-Testnet(TRON)](https://tron.network/) [Cosmos-Hub(Testnet)](https://cosmos.network/)						
     - IDEs and IDE Extensions
     
 - Developer Frameworks & Tools 
