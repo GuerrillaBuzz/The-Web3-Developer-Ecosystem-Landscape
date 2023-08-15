@@ -32,7 +32,8 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     - IDEs and IDE Extensions [Remix](https://remix.ethereum.org/) [Truffle-Suit](https://trufflesuite.com/) [Hardhat](https://hardhat.org/) [Brownie](https://github.com/eth-brownie/brownie) [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
     
 - Developer Frameworks & Tools 
-    - Frameworks for Rapid Development 
+    - Frameworks for Rapid Development [Hardhat](https://hardhat.org/)	[Truffle-Suite](https://trufflesuite.com/)	[Dapp-tools](https://dapp.tools/) [Brownie](https://github.com/eth-brownie/brownie) [Scaffold-Eth](https://docs.scaffoldeth.io/) [Web3-CLI](https://web3cli.vercel.app/) [Mockthereum](https://github.com/httptoolkit/mockthereum)[Replit](https://replit.com/)	[OxCert](https://github.com/0xcert/framework)	[Tatum](https://tatum.io/)	[Pagoda](https://www.pagoda.co/) [Anchor](https://www.anchor-lang.com/)
+ 
     - Tools for Smart Contract Development 
     
 - SDKs & APIs
@@ -57,11 +58,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 <h3> 5. Trading & Financial Services (DeFi): </h3>
 
 - Decentralized Exchanges (DEXs) 
-- Wallet Infrastructure & Management [Rhinestone](https://www.rhinestone.tech/) [WalletConnect] https://walletconnect.com/
-[WalletOS(Pine-Street-Labs)]  https://www.pinestreetlabs.com/
-[Wallet-Onboard(Plaid)]  https://plaid.com/wallet-onboard/	
-[RainbowKit] https://www.rainbowkit.com/
-[Dfns] https://www.dfns.co/	[Triangle] https://www.triangleplatform.com/	[Metamask] https://metamask.io/	[Zerion] https://zerion.io/
+- Wallet Infrastructure & Management [Rhinestone](https://www.rhinestone.tech/) [WalletConnect](https://walletconnect.com/)[WalletOS(Pine-Street-Labs)](https://www.pinestreetlabs.com/)[Wallet-Onboard(Plaid)](https://plaid.com/wallet-onboard/) [RainbowKit](https://www.rainbowkit.com/) [Dfns](https://www.dfns.co/)	[Triangle](https://www.triangleplatform.com/)	[Metamask](https://metamask.io/)[Zerion] (https://zerion.io/)
 
 <h3> 6. User Interaction & Engagement: </h3>
 
