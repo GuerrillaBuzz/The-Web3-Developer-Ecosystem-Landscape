@@ -17,13 +17,17 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     - Layer 1 Blockchains [Ethereum](https://ethereum.org/en/) [Solana](https://solana.com/) [Tron](https://tron.network/) [BNB-Smart-Chain](https://bnbsmartchain.com/) [Avalanche](https://www.avax.network/)	[Cosmos](https://cosmos.network/)	[Bitcoin](https://bitcoin.org/)	[Cardano](https://cardano.org/)	[Algorand](https://algorand.com/)	[Near](https://near.org/)
     - Layer 2/Rollups Solutions [Arbitrum](https://arbitrum.io/) [Polygon(Matic)](https://polygon.technology/) 	[Optimism](https://www.optimism.io/) [Zksync-Era](https://zksync.io/)	[Starknet](https://www.starknet.io/)	[Arbitrum-Nova](https://nova.arbitrum.io/)	[Linea](https://linea.build/)	[Scroll](https://scroll.io/)	
 
-- Network Infrastructure
+- Network & Wallet Infrastructure 
     - Node Management Tools [Infura](https://www.infura.io/)	[Alchemy](https://www.alchemy.com/)	[Quicknode](https://www.quicknode.com/)	[Chainstack](https://chainstack.com/	)	
     - Bridging Technologies [Poket-Network](https://www.pokt.network/)
     - Interoperability Solutions [Wan-chain](https://www.wanchain.org/) [Blockdaemon](https://www.blockdaemon.com/)	[InfStones](https://infstones.com/)
-    
+    - Wallet Infrastructure [WalletConnect](https://walletconnect.com/) [WalletOS(Pine Street Labs)](https://www.pinestreetlabs.com/)
+[Wallet-Onboard(Plaid)](https://plaid.com/wallet-onboard/)	
+[RainbowKit](https://www.rainbowkit.com/)
+[Dfns](https://www.dfns.co/)	[Triangle](https://www.triangleplatform.com/)	[Metamask](https://metamask.io/)	[Zerion](https://zerion.io/)
 
- 
+- Interoperability Solutions	[Layerzero](https://layerzero.network/)	[Wormhole](https://wormhole.com/)	[Holograph](https://www.holograph.xyz/)	[Biconomy](https://www.biconomy.io/)	[deBridge](https://debridge.finance/)	[Layerswap](https://www.layerswap.io/)	[Socket-Tech](https://socket.tech/)	
+    
 
 <h3> 2. Development Tools & Environments: </h3>
 
@@ -37,6 +41,8 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     - Tools for Smart Contract Development [Hardhat](https://hardhat.org/)	[Truffle-Suite](https://trufflesuite.com/) [Brownie](https://github.com/eth-brownie/brownie) [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
     
 - SDKs & APIs [Kryptokrona-Kotlin-SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk)[Portals-fi](https://portals.fi/)	[Myria](https://myria.com/)	[Kurtosis](https://www.kurtosis.com/) [QuickNode](https://www.quicknode.com/) [Peaze](https://www.peaze.com/)[Etherspot-SDK](https://etherspot.io/)	[Alchemy-SDK](https://www.alchemy.com/sdk)
+    - API Indexing [The-Graph](https://thegraph.com/)	[Moralis](https://moralis.io/)	[Subsquid](https://www.subsquid.io/)	[Unmarshal](https://unmarshal.io/)	[Subquery-Network](https://subquery.network/)
+
 - Accessibility Tools
    - Low/No Code Platforms [ChainJet](https://chainjet.io/)	[Thirdweb](https://thirdweb.com/) [WebStudio](https://www.webstudio.so/)	[Bildr](https://www.bildr.com/)	[Alchemy(Web3-Dapp)](https://www.alchemy.com/dapps/create-web3-dapp) [Directual](https://www.directual.com/) [Bunzz](https://www.bunzz.dev/)
    - Programming Languages and Libraries [Solidity](https://soliditylang.org/)	[Rust](https://www.rust-lang.org/)	[Vyper](https://docs.vyperlang.org/)	[Plutus](https://plutus.readthedocs.io/en/latest/tutorials/) [Marlowe](https://play.marlowe-finance.io/#/) [Aiken](https://github.com/aiken-lang/aiken)	[Huff](https://huff.sh/) [Move](https://move-book.com/) [Cairo](https://www.cairo-lang.org/) [Go](https://go.dev/) [Javascript](https://www.javascript.com/)
@@ -89,21 +95,21 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 <h3> 10. Governance and Consensus Mechanisms: </h3>
 
 - Decentralized Autonomous Organizations (DAOs) [Snapshot](https://snapshot.org/)	[Syndicate](https://syndicate.io/)	[Governor-Alpha/Compound](https://compound.finance/) [Origami](https://www.joinorigami.com/) [Tally](https://www.tally.xyz/)	[Squads](https://squads.so/) [Otterspace](https://www.otterspace.xyz/) [Factor-fi](https://factor.fi/)
-- Governance Tokens and Voting Mechanisms 
+- Governance Tokens and Voting Mechanisms [Compound-(COMP)](https://compound.finance/) [MakerDAO-(MKR)](https://makerdao.com/en/) [Balancer-(BAL)](https://balancer.fi/)
 
 <h3> 11. Cross-Chain Solutions: </h3>
 
-- Cross-Chain Bridges and Protocols 
-- Interoperability Projects 
+- Cross-Chain Bridges and Protocols  [Hop-Bridge](https://hop.exchange/) [Multichain](https://multichain.xyz/)	[Orbiter-Finance](https://www.orbiter.finance/)	[Across-Protocol](https://across.to/)	[Synapse-Protocol](https://www.synapseprotocol.com/) [Bungee](https://bungee.exchange/)	[cBridge(Celer-Network)](https://cbridge.celer.network/)
+- Interoperability Projects [Layerzero](https://layerzero.network/)	[Wormhole](https://wormhole.com/)	[Holograph](https://www.holograph.xyz/)	[Biconomy](https://www.biconomy.io/)	[deBridge](https://debridge.finance/)	[Layerswap](https://www.layerswap.io/)	[Socket-Tech](https://socket.tech/)
 
 <h3> 12. Decentralized Identity (DID): </h3>
 
- - Self-Sovereign Identity Solutions
- - DID Frameworks and Standards 
+- Self-Sovereign Identity Solutions [Self.ID-SDK](https://self.id/)	[SpruceID](https://spruceid.com/)	[World-ID(Worldcoin)](https://worldcoin.org/world-id)	[Space-ID](https://space.id/)	[Core-ID(CoreDAO)](https://coredao.id/)
+- DID Frameworks and Standards [W3C-Decentralized-Identifiers(DIDs)](https://www.w3.org/TR/did-core/) [Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/) [uPort](https://www.uport.me/) [Sovrin](https://sovrin.org/) [SelfKey](https://selfkey.org/) [IOTA-Identity](https://www.iota.org/)
 
 <h3> 13. Decentralized File Storage: </h3>
 
-- Blockchain-based File Storage Solutions
+- Blockchain-based File Storage Solutions [IPFS](https://ipfs.tech/)	[Arweave](https://www.arweave.org/)	[Filecoin](https://filecoin.io/)	[Sia](https://sia.tech/)	[Ceramic](https://ceramic.network/)	[Tableland](https://tableland.xyz/)	[Web3-Storage](https://web3.storage/) [KYVE-Network](https://www.kyve.network/) [Tableland](https://tableland.xyz/)
 
 
 [Homepage](https://github.com/GuerrillaBuzz/The-Web3-Developer-Ecosystem-Landscape)
