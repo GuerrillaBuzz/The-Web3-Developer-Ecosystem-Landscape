@@ -18,9 +18,9 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     - Layer 2/Rollups Solutions [Arbitrum](https://arbitrum.io/) [Polygon(Matic)](https://polygon.technology/) 	[Optimism](https://www.optimism.io/) [Zksync-Era](https://zksync.io/)	[Starknet](https://www.starknet.io/)	[Arbitrum-Nova](https://nova.arbitrum.io/)	[Linea](https://linea.build/)	[Scroll](https://scroll.io/)	
 
 - Network Infrastructure
-    - Node Management Tools 
-    - Bridging Technologies 
-    - Interoperability Solutions
+    - Node Management Tools [Infura](https://www.infura.io/)	[Alchemy](https://www.alchemy.com/)	[Quicknode](https://www.quicknode.com/)	[Chainstack](https://chainstack.com/	)	
+    - Bridging Technologies [Poket-Network](https://www.pokt.network/)
+    - Interoperability Solutions [Blockdaemon](https://www.blockdaemon.com/)	[InfStones](https://infstones.com/)
     
 
  
@@ -29,7 +29,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 - Development Environments 
     - Testnets for Experimentation [Goerli(Ethereum)](https://goerli.net/)	[Sepolia(Ethereum)](https://sepolia.dev/)	[Mumbai(Polygon)](https://docs.polygonscan.com/v/mumbai-polygonscan/)	[Fuji-Testnet(Avalanche)](https://www.avax.network/) [BNB-Smart-Chain(Testnet)](https://bnbsmartchain.com/) [Scroll-Alpha(Testnet)](https://guide.scroll.io/) [Solana(Testnet)](https://docs.solana.com/clusters)[Shasta-Testnet(TRON)](https://tron.network/) [Cosmos-Hub(Testnet)](https://cosmos.network/)						
-    - IDEs and IDE Extensions
+    - IDEs and IDE Extensions [Remix](https://remix.ethereum.org/) [Truffle-Suit](https://trufflesuite.com/) [Hardhat](https://hardhat.org/) [Brownie](https://github.com/eth-brownie/brownie) [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
     
 - Developer Frameworks & Tools 
     - Frameworks for Rapid Development 
