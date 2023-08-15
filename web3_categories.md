@@ -20,7 +20,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 - Network Infrastructure
     - Node Management Tools [Infura](https://www.infura.io/)	[Alchemy](https://www.alchemy.com/)	[Quicknode](https://www.quicknode.com/)	[Chainstack](https://chainstack.com/	)	
     - Bridging Technologies [Poket-Network](https://www.pokt.network/)
-    - Interoperability Solutions [Blockdaemon](https://www.blockdaemon.com/)	[InfStones](https://infstones.com/)
+    - Interoperability Solutions [Wan-chain](https://www.wanchain.org/) [Blockdaemon](https://www.blockdaemon.com/)	[InfStones](https://infstones.com/)
     
 
  
@@ -38,7 +38,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 - SDKs & APIs
 - Accessibility Tools
    - Low/No Code Platforms [ChainJet](https://chainjet.io/)	[Thirdweb](https://thirdweb.com/)	[WebStudio](https://www.webstudio.so/)	[Bildr](https://www.bildr.com/)	[Alchemy(Web3-Dapp)](https://www.alchemy.com/dapps/create-web3-dapp) [Directual](https://www.directual.com/)	[Bunzz](https://www.bunzz.dev/)
-   - Programming Languages and Libraries [Solidity](https://soliditylang.org/)	[Rust](https://www.rust-lang.org/)	[Vyper](https://docs.vyperlang.org/)	[Haskel](https://www.haskell.org/)	[Huff](https://huff.sh/)	[Move](https://move-book.com/)	[Cairo](https://www.cairo-lang.org/)	[Go](https://go.dev/)	[Javascript](https://www.javascript.com/)
+   - Programming Languages and Libraries [Solidity](https://soliditylang.org/)	[Rust](https://www.rust-lang.org/)	[Vyper](https://docs.vyperlang.org/)	[Plutus](https://plutus.readthedocs.io/en/latest/tutorials/) [Marlowe](https://play.marlowe-finance.io/#/) [Aiken](https://github.com/aiken-lang/aiken)	[Huff](https://huff.sh/)	[Move](https://move-book.com/)	[Cairo](https://www.cairo-lang.org/)	[Go](https://go.dev/)	[Javascript](https://www.javascript.com/)
 
 
 <h3> 3. Data Management & Analysis: </h3>
@@ -57,7 +57,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 <h3> 5. Trading & Financial Services (DeFi): </h3>
 
 - Decentralized Exchanges (DEXs) 
-- Wallet Infrastructure & Management 
+- Wallet Infrastructure & Management [Rhinestone](https://www.rhinestone.tech/)
 
 <h3> 6. User Interaction & Engagement: </h3>
 
