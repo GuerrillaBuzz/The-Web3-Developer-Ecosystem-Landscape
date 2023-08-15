@@ -37,20 +37,20 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     
 - SDKs & APIs
 - Accessibility Tools
-   - Low/No Code Platforms
-   - Programming Languages and Libraries 
+   - Low/No Code Platforms [ChainJet](https://chainjet.io/)	[Thirdweb](https://thirdweb.com/)	[WebStudio](https://www.webstudio.so/)	[Bildr](https://www.bildr.com/)	[Alchemy(Web3-Dapp)](https://www.alchemy.com/dapps/create-web3-dapp) [Directual](https://www.directual.com/)	[Bunzz](https://www.bunzz.dev/)
+   - Programming Languages and Libraries [Solidity](https://soliditylang.org/)	[Rust](https://www.rust-lang.org/)	[Vyper](https://docs.vyperlang.org/)	[Haskel](https://www.haskell.org/)	[Huff](https://huff.sh/)	[Move](https://move-book.com/)	[Cairo](https://www.cairo-lang.org/)	[Go](https://go.dev/)	[Javascript](https://www.javascript.com/)
 
 
 <h3> 3. Data Management & Analysis: </h3>
 
 - Data Storage Solutions [IPFS](https://ipfs.tech/)	[Arweave](https://www.arweave.org/)	[Filecoin](https://filecoin.io/)	[Sia](https://sia.tech/)	[Ceramic](https://ceramic.network/)	[Tableland](https://tableland.xyz/)	[Web3-Storage](https://web3.storage/) [KYVE-Network](https://www.kyve.network/) [Tableland](https://tableland.xyz/)
-- API Indexing & Querying 
-- Analytics & Reporting 
-- Libraries for Data Manipulation 
+- API Indexing & Querying [The-Graph](https://thegraph.com/)	[Moralis](https://moralis.io/)	[Subsquid](https://www.subsquid.io/)	[Unmarshal](https://unmarshal.io/)	[Subquery-Network](https://subquery.network/)
+- Analytics & Reporting [Nansen](https://www.nansen.ai/) [Dune-Analytics](https://duneanalytics.com/) [IntoTheBlock](https://www.intotheblock.com/)
+- Libraries for Data Manipulation [Web3.js](https://web3js.readthedocs.io/en/v1.10.0/) [ethers.js](https://docs.ethers.org/v5/) [web3.py](https://web3py.readthedocs.io/en/stable/) [Polkadot.js](https://polkadot.js.org/docs/) [BitcoinJS](https://github.com/bitcoinjs/)[bitcoinjs-lib(Web3-React)](https://docs.uniswap.org/sdk/web3-react/overview)
 
 <h3> 4. Security & Compliance: </h3>
 
-- Security Solutions 
+- Security Solutions 	[Forta](https://forta.org/)	[Harpie](https://harpie.io/) [Splunk](https://www.splunk.com/en_us/home-page.html)
 - Risk Management & Auditing 
 - Secure Smart Contract Templates 
 
@@ -75,7 +75,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 <h3> 8. Education & Resources: </h3>
 
-- Educational Platforms & Tutorials </li>
+- Educational Platforms & Tutorials [useWeb3](https://www.useweb3.xyz/)	[CryptoZombies](https://cryptozombies.io/)	[Figment-Learn](https://learn.figment.io/)	[LearnWeb3-DAO](https://learnweb3.io/) [Cadena](https://cadena.dev/)	[Odyssey-DAO(ZenAcademy)](https://www.odysseydao.com/learn?e9032d73_page=8) [Bankless-Academy](https://banklessacademy.com/) [Alchemy-University](https://university.alchemy.com/) [Consensys-Academy](https://consensys.net/academy/)	[Node-Guardians](https://nodeguardians.io/)	[Ape-Academy](https://academy.apeworx.io/) [Dapp-University](https://www.dappuniversity.com/)
 - Testing & Quality Assurance Tools 
 
 <h3> 9. Decentralized Finance (DeFi) Infrastructure: </h3>
