@@ -11,12 +11,14 @@ This categorization process isn't a mere exercise in classification; it is a dyn
 Through this methodology, we invite you to embark on a journey of discovery, as we map out the core infrastructure, development tools, data management, security measures, user interactions, and specialized domains that define the Web3 landscape. Together, we unlock insights that inspire innovation, collaboration, and a holistic understanding of the Web3 developer ecosystem's unfolding narrative.
 
 
-<h3> A. Infrastructure: </h3>
+<h3> 1. Infrastructure: </h3>
 
 <ol>
 <li>	Layered Architecture </li>
     <ul>
         <li>	Layer 1 Blockchains </li>
+        
+        [Ethereum](https://ethereum.org/en/)
         <li>	Layer 2/Rollups Solutions </li>
     </ul>
 <li>	Network Infrastructure </li>
@@ -29,7 +31,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
  
 
-<h3> B. Development Tools & Environments: </h3>
+<h3> 2. Development Tools & Environments: </h3>
 <ol>  
 <li> Development Environments </li>
     <ul>
@@ -49,7 +51,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     </ul>
 </ol>
 
-<h3> C. Data Management & Analysis: </h3>
+<h3> 3. Data Management & Analysis: </h3>
 <ol>
     <li>	Data Storage Solutions </li>
     <li>	API Indexing & Querying </li>
@@ -57,20 +59,20 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     <li>	Libraries for Data Manipulation </li>
 </ol>
 
-<h3> D. Security & Compliance: </h3>
+<h3> 4. Security & Compliance: </h3>
 <ol>
     <li>	Security Solutions </li>
     <li>	Risk Management & Auditing </li>
     <li>	Secure Smart Contract Templates </li>
 </ol>
 
-<h3> E. Trading & Financial Services (DeFi): </h3>
+<h3> 5. Trading & Financial Services (DeFi): </h3>
 <ol>
     <li>	Decentralized Exchanges (DEXs) </li>
     <li>	Wallet Infrastructure & Management </li>
 </ol>
 
-<h3> F. User Interaction & Engagement: </h3>
+<h3> 6. User Interaction & Engagement: </h3>
 <ol>
     <li>	Oracles for External Data </li>
     <li>	NFT Marketplaces & APIs </li>
@@ -78,7 +80,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     <li>	Identity Solutions </li>
 </ol>
 
-<h3> G. Specialized Development Fields: </h3>
+<h3> 7. Specialized Development Fields: </h3>
 <ol>
     <li>	DAO Platforms & Tools </li>
     <li>	Blockchain Game Development </li>
@@ -86,40 +88,34 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
     <li>	Blockchain Automation </li>
 </ol>
 
-<h3> H. Education & Resources: </h3>
+<h3> 8. Education & Resources: </h3>
 <ol>
     <li>	Educational Platforms & Tutorials </li>
     <li>	Testing & Quality Assurance Tools </li>
 </ol>
 
-<h3> I. Decentralized Finance (DeFi) Infrastructure: </h3>
+<h3> 9. Decentralized Finance (DeFi) Infrastructure: </h3>
 <ul>
     <li> DeFi Protocols and Platforms </li>
     <li> Yield Farming and Liquidity Mining </li>
     <li> Decentralized Lending and Borrowing </li>
 </ul>
 
-<h3> J. Governance and Consensus Mechanisms: </h3>
+<h3> 10. Governance and Consensus Mechanisms: </h3>
 <ul>
     <li> Decentralized Autonomous Organizations (DAOs) </li>
     <li> Governance Tokens and Voting Mechanisms </li>
 </ul>
 
-<h3> K. Cross-Chain Solutions: </h3>
-<ul>
-    <li> Cross-Chain Bridges and Protocols </li>
-    <li> Interoperability Projects </li>
-</ul>
+<h3> 11. Cross-Chain Solutions: </h3>
+    - Cross-Chain Bridges and Protocols 
+    - Interoperability Projects 
 
-<h3>  L. Decentralized Identity (DID): </h3>
-<ul>
-    <li> Self-Sovereign Identity Solutions </li>
-    <li> DID Frameworks and Standards </li>
-</ul>
+<h3>  12. Decentralized Identity (DID): </h3>
+    - Self-Sovereign Identity Solutions 
+    - DID Frameworks and Standards 
 
 <h3> M. Decentralized File Storage: </h3>
-<ul>
-    <li> Blockchain-based File Storage Solutions </li>
-</ul>
+   - Blockchain-based File Storage Solutions 
 
 [Homepage](https://github.com/GuerrillaBuzz/The-Web3-Developer-Ecosystem-Landscape)
