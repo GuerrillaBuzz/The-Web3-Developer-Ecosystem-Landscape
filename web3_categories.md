@@ -13,109 +13,95 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 <h3> 1. Infrastructure: </h3>
 
-<ol>
-<li>	Layered Architecture </li>
-    <ul>
-        <li>	Layer 1 Blockchains </li>
-        
-        [Ethereum](https://ethereum.org/en/)
-        <li>	Layer 2/Rollups Solutions </li>
-    </ul>
-<li>	Network Infrastructure </li>
-    <ul>
-        <li>	Node Management Tools </li>
-        <li>	Bridging Technologies </li>
-        <li>	Interoperability Solutions </li>
-    </ul>
-</ol>
+- Layered Architecture
+    - Layer 1 Blockchains [Ethereum](https://ethereum.org/en/)
+    - Layer 2/Rollups Solutions
+
+- Network Infrastructure
+    - Node Management Tools 
+    - Bridging Technologies 
+    - Interoperability Solutions
+    
 
  
 
 <h3> 2. Development Tools & Environments: </h3>
-<ol>  
-<li> Development Environments </li>
-    <ul>
-        <li>	Testnets for Experimentation </li>
-        <li>	IDEs and IDE Extensions </li>
-    </ul>
-<li>	Developer Frameworks & Tools </li>
-    <ul>
-        <li>	Frameworks for Rapid Development </ul>
-        <li>	Tools for Smart Contract Development </ul>
-    </ul>
-<li>	SDKs & APIs </li>
-<li>	Accessibility Tools </li>
-    <ul>
-        <li>	Low/No Code Platforms </li>
-        <li>	Programming Languages and Libraries </li>
-    </ul>
-</ol>
+
+- Development Environments 
+    - Testnets for Experimentation
+    - IDEs and IDE Extensions
+    
+- Developer Frameworks & Tools 
+    - Frameworks for Rapid Development 
+    - Tools for Smart Contract Development 
+    
+- SDKs & APIs
+- Accessibility Tools
+   - Low/No Code Platforms
+   - Programming Languages and Libraries 
+
 
 <h3> 3. Data Management & Analysis: </h3>
-<ol>
-    <li>	Data Storage Solutions </li>
-    <li>	API Indexing & Querying </li>
-    <li>	Analytics & Reporting </li>
-    <li>	Libraries for Data Manipulation </li>
-</ol>
+
+- Data Storage Solutions 
+- API Indexing & Querying 
+- Analytics & Reporting 
+- Libraries for Data Manipulation 
 
 <h3> 4. Security & Compliance: </h3>
-<ol>
-    <li>	Security Solutions </li>
-    <li>	Risk Management & Auditing </li>
-    <li>	Secure Smart Contract Templates </li>
-</ol>
+
+- Security Solutions 
+- Risk Management & Auditing 
+- Secure Smart Contract Templates 
 
 <h3> 5. Trading & Financial Services (DeFi): </h3>
-<ol>
-    <li>	Decentralized Exchanges (DEXs) </li>
-    <li>	Wallet Infrastructure & Management </li>
-</ol>
+
+- Decentralized Exchanges (DEXs) 
+- Wallet Infrastructure & Management 
 
 <h3> 6. User Interaction & Engagement: </h3>
-<ol>
-    <li>	Oracles for External Data </li>
-    <li>	NFT Marketplaces & APIs </li>
-    <li>	Social Interaction Platforms </li>
-    <li>	Identity Solutions </li>
-</ol>
+
+- Oracles for External Data 
+- NFT Marketplaces & APIs 
+- Social Interaction Platforms 
+- Identity Solutions 
 
 <h3> 7. Specialized Development Fields: </h3>
-<ol>
-    <li>	DAO Platforms & Tools </li>
-    <li>	Blockchain Game Development </li>
-    <li>	Metaverse Development </li>
-    <li>	Blockchain Automation </li>
-</ol>
+
+- DAO Platforms & Tools 
+- Blockchain Game Development 
+- Metaverse Development 
+- Blockchain Automation 
 
 <h3> 8. Education & Resources: </h3>
-<ol>
-    <li>	Educational Platforms & Tutorials </li>
-    <li>	Testing & Quality Assurance Tools </li>
-</ol>
+
+- Educational Platforms & Tutorials </li>
+- Testing & Quality Assurance Tools 
 
 <h3> 9. Decentralized Finance (DeFi) Infrastructure: </h3>
-<ul>
-    <li> DeFi Protocols and Platforms </li>
-    <li> Yield Farming and Liquidity Mining </li>
-    <li> Decentralized Lending and Borrowing </li>
-</ul>
+
+- DeFi Protocols and Platforms
+- Yield Farming and Liquidity Mining 
+- Decentralized Lending and Borrowing 
 
 <h3> 10. Governance and Consensus Mechanisms: </h3>
-<ul>
-    <li> Decentralized Autonomous Organizations (DAOs) </li>
-    <li> Governance Tokens and Voting Mechanisms </li>
-</ul>
+
+- Decentralized Autonomous Organizations (DAOs) 
+- Governance Tokens and Voting Mechanisms 
 
 <h3> 11. Cross-Chain Solutions: </h3>
-    - Cross-Chain Bridges and Protocols 
-    - Interoperability Projects 
+
+- Cross-Chain Bridges and Protocols 
+- Interoperability Projects 
 
 <h3>  12. Decentralized Identity (DID): </h3>
-    - Self-Sovereign Identity Solutions 
-    - DID Frameworks and Standards 
+
+ - Self-Sovereign Identity Solutions
+ - DID Frameworks and Standards 
 
 <h3> M. Decentralized File Storage: </h3>
-   - Blockchain-based File Storage Solutions 
+
+- Blockchain-based File Storage Solutions
+
 
 [Homepage](https://github.com/GuerrillaBuzz/The-Web3-Developer-Ecosystem-Landscape)
