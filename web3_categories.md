@@ -63,8 +63,8 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 <h3> 6. User Interaction & Engagement: </h3>
 
 - Oracles for External Data  [Chainlink](https://chain.link/) [Paralink](https://paralink.network/)	[Witnet](https://witnet.io/)	[Band-Protocol](https://www.bandprotocol.com/) [Provable](https://provable.xyz/) [UMA-Optimistic-Oracle](https://oracle.uma.xyz/)	
-[Switchboard] https://switchboard.xyz/ [Pyth-Network](https://pyth.network/) [DIA-data](https://www.diadata.org/) [Midpoint](https://www.midpointapi.com/) [Supra-Oracles](https://supraoracles.com/)
-- NFT Marketplaces & APIs [Simplehash](https://simplehash.com/) [Infura-NFT-API-Suite](https://www.infura.io/platform/nft-api) [Manifold](https://manifold.xyz/) [Ownerfy](https://ownerfy.com/) [Opensea-API](https://docs.opensea.io/reference/api-overview) [Mnemonic](https://www.mnemonichq.com/) [Chainstack-NFT-API](https://chainstack.com/nft-api/)[Rarible-SDK](https://docs.rarible.org/) [Center](https://center.app/)	[NFT-Port](https://www.nftport.xyz/) [NiftyKit](https://niftykit.com/) [Mirrorworld](https://mirrorworld.fun/)[Particle-Network](https://particle.network/) [Seaport.js](https://github.com/ProjectOpenSea/seaport-js)
+[Switchboard](https://switchboard.xyz/) [Pyth-Network](https://pyth.network/) [DIA-data](https://www.diadata.org/) [Midpoint](https://www.midpointapi.com/) [Supra-Oracles](https://supraoracles.com/)
+- NFT Marketplaces & APIs [Simplehash](https://simplehash.com/) [Infura-NFT-API-Suite](https://www.infura.io/platform/nft-api) [Manifold](https://manifold.xyz/) [Ownerfy](https://ownerfy.com/) [Opensea-API](https://docs.opensea.io/reference/api-overview) [Mnemonic](https://www.mnemonichq.com/) [Chainstack-NFT-API](https://chainstack.com/nft-api/) [Rarible-SDK](https://docs.rarible.org/) [Center](https://center.app/)	[NFT-Port](https://www.nftport.xyz/) [NiftyKit](https://niftykit.com/) [Mirrorworld](https://mirrorworld.fun/)[Particle-Network](https://particle.network/) [Seaport.js](https://github.com/ProjectOpenSea/seaport-js)
 - Social Interaction Platforms [Lens-protocol](https://www.lens.xyz/) [Farcaster](https://www.farcaster.xyz/) [Cyberconnect](https://galxeecyber.com/) [Orb](https://orb.ac/) [Bluesky](https://blueskyweb.xyz/) [Mask](https://mask.io/)
 - Identity Solutions [Self.ID-SDK](https://self.id/) [SpruceID](https://spruceid.com/)	[World-ID(Worldcoin)](https://worldcoin.org/world-id)	[Space-ID](https://space.id/) [Core-ID(CoreDAO)](https://coredao.id/)	
 
@@ -73,7 +73,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 - DAO Platforms & Tools [Snapshot](https://snapshot.org/) [Syndicate](https://syndicate.io/) [Governor-Alpha/Compound](https://compound.finance/) [Origami](https://www.joinorigami.com/) [Tally](https://www.tally.xyz/) [Squads](https://squads.so/) [Otterspace](https://www.otterspace.xyz/)[Factor-fi](https://factor.fi/)	
 - Blockchain Game Development [Gala-Games](https://gala.com/) [Dapper-labs](https://www.dapperlabs.com/) [Vulcan-Forged](https://vulcanforged.com/) [Nakamoto-games](https://www.nakamoto.games/) [Immutable](https://www.immutable.com/) [LYNC](https://www.lync.world/)
 - Metaverse Development [Webaverse](https://webaverse.com/)	[Ethereal-Engine](https://www.etherealengine.com/about) [Holoframe](https://holoframe.io/) [Sandbox](https://www.sandbox.game/en/)
-- Blockchain Automation [HAL-Notify](https://www.hal.xyz/products/hal-notify)[Tenderly-Web3-Actions](https://docs.tenderly.co/web3-actions/intro-to-web3-actions) [Gelato-Automate](https://www.gelato.network/automate) [Chainlink-Automation](https://chain.link/automation)
+- Blockchain Automation [HAL-Notify](https://www.hal.xyz/products/hal-notify) [Tenderly-Web3-Actions](https://docs.tenderly.co/web3-actions/intro-to-web3-actions) [Gelato-Automate](https://www.gelato.network/automate) [Chainlink-Automation](https://chain.link/automation)
 
 <h3> 8. Education & Resources: </h3>
 
@@ -82,13 +82,13 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 <h3> 9. Decentralized Finance (DeFi) Infrastructure: </h3>
 
-- DeFi Protocols and Platforms
-- Yield Farming and Liquidity Mining 
-- Decentralized Lending and Borrowing 
+- DeFi Protocols and Platforms [Compound](https://compound.finance/) [Aave](https://aave.com/) [MakerDAO](https://makerdao.com/) [Lenfi](https://lenfi.io/) [Synthetix](https://www.synthetix.io/) [Uniswap](https://uniswap.org/) [SushiSwap](https://sushi.com/) [Curve-Finance](https://curve.fi/)
+- Yield Farming and Liquidity Mining [Yearn-Finance](https://yearn.finance/) [Balancer](https://balancer.fi/) [Curve-Finance](https://curve.fi/)
+- Decentralized Lending and Borrowing [Compound](https://compound.finance/) [Aave](https://aave.com/) [MakerDAO](https://makerdao.com/) [Cream-Finance](https://cream.finance/)
 
 <h3> 10. Governance and Consensus Mechanisms: </h3>
 
-- Decentralized Autonomous Organizations (DAOs) 
+- Decentralized Autonomous Organizations (DAOs) [Snapshot](https://snapshot.org/)	[Syndicate](https://syndicate.io/)	[Governor-Alpha/Compound](https://compound.finance/) [Origami](https://www.joinorigami.com/) [Tally](https://www.tally.xyz/)	[Squads](https://squads.so/) [Otterspace](https://www.otterspace.xyz/) [Factor-fi](https://factor.fi/)
 - Governance Tokens and Voting Mechanisms 
 
 <h3> 11. Cross-Chain Solutions: </h3>
@@ -101,7 +101,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
  - Self-Sovereign Identity Solutions
  - DID Frameworks and Standards 
 
-<h3> M. Decentralized File Storage: </h3>
+<h3> 13. Decentralized File Storage: </h3>
 
 - Blockchain-based File Storage Solutions
 
