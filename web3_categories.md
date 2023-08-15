@@ -70,15 +70,15 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 <h3> 7. Specialized Development Fields: </h3>
 
-- DAO Platforms & Tools 
-- Blockchain Game Development 
-- Metaverse Development 
-- Blockchain Automation 
+- DAO Platforms & Tools [Snapshot](https://snapshot.org/) [Syndicate](https://syndicate.io/) [Governor-Alpha/Compound](https://compound.finance/) [Origami](https://www.joinorigami.com/) [Tally](https://www.tally.xyz/) [Squads](https://squads.so/) [Otterspace](https://www.otterspace.xyz/)[Factor-fi](https://factor.fi/)	
+- Blockchain Game Development [Gala-Games](https://gala.com/) [Dapper-labs](https://www.dapperlabs.com/) [Vulcan-Forged](https://vulcanforged.com/) [Nakamoto-games](https://www.nakamoto.games/) [Immutable](https://www.immutable.com/) [LYNC](https://www.lync.world/)
+- Metaverse Development [Webaverse](https://webaverse.com/)	[Ethereal-Engine](https://www.etherealengine.com/about) [Holoframe](https://holoframe.io/) [Sandbox](https://www.sandbox.game/en/)
+- Blockchain Automation [HAL-Notify](https://www.hal.xyz/products/hal-notify)[Tenderly-Web3-Actions](https://docs.tenderly.co/web3-actions/intro-to-web3-actions) [Gelato-Automate](https://www.gelato.network/automate) [Chainlink-Automation](https://chain.link/automation)
 
 <h3> 8. Education & Resources: </h3>
 
 - Educational Platforms & Tutorials [useWeb3](https://www.useweb3.xyz/)	[CryptoZombies](https://cryptozombies.io/)	[Figment-Learn](https://learn.figment.io/)	[LearnWeb3-DAO](https://learnweb3.io/) [Cadena](https://cadena.dev/)	[Odyssey-DAO(ZenAcademy)](https://www.odysseydao.com/learn?e9032d73_page=8) [Bankless-Academy](https://banklessacademy.com/) [Alchemy-University](https://university.alchemy.com/) [Consensys-Academy](https://consensys.net/academy/)	[Node-Guardians](https://nodeguardians.io/)	[Ape-Academy](https://academy.apeworx.io/) [Dapp-University](https://www.dappuniversity.com/)
-- Testing & Quality Assurance Tools 
+- Testing & Quality Assurance Tools [Waffle](https://getwaffle.io/) [Robot-Framework-Solidity-Testing-Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) [prb-test(PaulRBerg)](https://github.com/PaulRBerg/prb-test)	[Harbor](https://www.goharbor.com/)	[Diligence-Fuzzing-(Consensys)](https://consensys.net/diligence/fuzzing/) [Truffle-Debugger](https://trufflesuite.com/)	 [Echidna-(crytic)](https://github.com/crytic/echidna) [Pytest-cobra](https://pypi.org/project/pytest-cobra/)
 
 <h3> 9. Decentralized Finance (DeFi) Infrastructure: </h3>
 
