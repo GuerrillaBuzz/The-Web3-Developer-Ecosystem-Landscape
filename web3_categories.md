@@ -14,7 +14,7 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 <h3> 1. Infrastructure: </h3>
 
 - Layered Architecture
-    - Layer 1 Blockchains [Ethereum](https://ethereum.org/en/)
+    - Layer 1 Blockchains [Ethereum](https://ethereum.org/en/) [Solana](https://solana.com/) [Tron](https://tron.network/) 
     - Layer 2/Rollups Solutions
 
 - Network Infrastructure
