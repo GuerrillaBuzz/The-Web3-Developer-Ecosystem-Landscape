@@ -34,12 +34,12 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 - Developer Frameworks & Tools 
     - Frameworks for Rapid Development [Hardhat](https://hardhat.org/)	[Truffle-Suite](https://trufflesuite.com/)	[Dapp-tools](https://dapp.tools/) [Brownie](https://github.com/eth-brownie/brownie) [Scaffold-Eth](https://docs.scaffoldeth.io/) [Web3-CLI](https://web3cli.vercel.app/) [Mockthereum](https://github.com/httptoolkit/mockthereum)[Replit](https://replit.com/)	[OxCert](https://github.com/0xcert/framework)	[Tatum](https://tatum.io/)	[Pagoda](https://www.pagoda.co/) [Anchor](https://www.anchor-lang.com/)
  
-    - Tools for Smart Contract Development 
+    - Tools for Smart Contract Development [Hardhat](https://hardhat.org/)	[Truffle-Suite](https://trufflesuite.com/) [Brownie](https://github.com/eth-brownie/brownie) [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
     
 - SDKs & APIs [Kryptokrona-Kotlin-SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk)[Portals-fi](https://portals.fi/)	[Myria](https://myria.com/)	[Kurtosis](https://www.kurtosis.com/) [QuickNode](https://www.quicknode.com/) [Peaze](https://www.peaze.com/)[Etherspot-SDK](https://etherspot.io/)	[Alchemy-SDK](https://www.alchemy.com/sdk)
 - Accessibility Tools
-   - Low/No Code Platforms [ChainJet](https://chainjet.io/)	[Thirdweb](https://thirdweb.com/)	[WebStudio](https://www.webstudio.so/)	[Bildr](https://www.bildr.com/)	[Alchemy(Web3-Dapp)](https://www.alchemy.com/dapps/create-web3-dapp) [Directual](https://www.directual.com/)	[Bunzz](https://www.bunzz.dev/)
-   - Programming Languages and Libraries [Solidity](https://soliditylang.org/)	[Rust](https://www.rust-lang.org/)	[Vyper](https://docs.vyperlang.org/)	[Plutus](https://plutus.readthedocs.io/en/latest/tutorials/) [Marlowe](https://play.marlowe-finance.io/#/) [Aiken](https://github.com/aiken-lang/aiken)	[Huff](https://huff.sh/)	[Move](https://move-book.com/)	[Cairo](https://www.cairo-lang.org/)	[Go](https://go.dev/)	[Javascript](https://www.javascript.com/)
+   - Low/No Code Platforms [ChainJet](https://chainjet.io/)	[Thirdweb](https://thirdweb.com/) [WebStudio](https://www.webstudio.so/)	[Bildr](https://www.bildr.com/)	[Alchemy(Web3-Dapp)](https://www.alchemy.com/dapps/create-web3-dapp) [Directual](https://www.directual.com/) [Bunzz](https://www.bunzz.dev/)
+   - Programming Languages and Libraries [Solidity](https://soliditylang.org/)	[Rust](https://www.rust-lang.org/)	[Vyper](https://docs.vyperlang.org/)	[Plutus](https://plutus.readthedocs.io/en/latest/tutorials/) [Marlowe](https://play.marlowe-finance.io/#/) [Aiken](https://github.com/aiken-lang/aiken)	[Huff](https://huff.sh/) [Move](https://move-book.com/) [Cairo](https://www.cairo-lang.org/) [Go](https://go.dev/) [Javascript](https://www.javascript.com/)
 
 
 <h3> 3. Data Management & Analysis: </h3>
@@ -51,21 +51,22 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 <h3> 4. Security & Compliance: </h3>
 
-- Security Solutions 	[Forta](https://forta.org/)	[Harpie](https://harpie.io/) [Splunk](https://www.splunk.com/en_us/home-page.html)
-- Risk Management & Auditing 
+- Security Solutions  [Forta](https://forta.org/) [Harpie](https://harpie.io/) [Splunk](https://www.splunk.com/en_us/home-page.html)
+- Risk Management & Auditing [MythX](https://mythx.io/)	[Oyente](https://oyente.tech/)	[Ethersplay](https://github.com/crytic/ethersplay)[Solgraph](https://github.com/raineorshine/solgraph)[Manticore](https://github.com/trailofbits/manticore)
 - Secure Smart Contract Templates [Cookbook] https://www.cookbook.dev/ [OpenZeppelin](https://www.openzeppelin.com/contracts)[Boring-Solidity](https://github.com/boringcrypto/BoringSolidity) [Solmate](https://github.com/transmissions11/solmate)
 
 <h3> 5. Trading & Financial Services (DeFi): </h3>
 
-- Decentralized Exchanges (DEXs) 
+- Decentralized Exchanges (DEXs) [Uniswap](https://uniswap.org/) [PancakeSwap](https://pancakeswap.finance/) [KyberSwap](https://kyberswap.com/) [DYDX](https://dydx.exchange/)	[Covo](https://covo.finance/)
 - Wallet Infrastructure & Management [Rhinestone](https://www.rhinestone.tech/) [WalletConnect](https://walletconnect.com/)[WalletOS(Pine-Street-Labs)](https://www.pinestreetlabs.com/)[Wallet-Onboard(Plaid)](https://plaid.com/wallet-onboard/) [RainbowKit](https://www.rainbowkit.com/) [Dfns](https://www.dfns.co/)[Triangle](https://www.triangleplatform.com/) [Metamask](https://metamask.io/)[Zerion](https://zerion.io/)
 
 <h3> 6. User Interaction & Engagement: </h3>
 
-- Oracles for External Data 
-- NFT Marketplaces & APIs 
-- Social Interaction Platforms 
-- Identity Solutions 
+- Oracles for External Data  [Chainlink](https://chain.link/) [Paralink](https://paralink.network/)	[Witnet](https://witnet.io/)	[Band-Protocol](https://www.bandprotocol.com/) [Provable](https://provable.xyz/) [UMA-Optimistic-Oracle](https://oracle.uma.xyz/)	
+[Switchboard] https://switchboard.xyz/ [Pyth-Network](https://pyth.network/) [DIA-data](https://www.diadata.org/) [Midpoint](https://www.midpointapi.com/) [Supra-Oracles](https://supraoracles.com/)
+- NFT Marketplaces & APIs [Simplehash](https://simplehash.com/) [Infura-NFT-API-Suite](https://www.infura.io/platform/nft-api) [Manifold](https://manifold.xyz/) [Ownerfy](https://ownerfy.com/) [Opensea-API](https://docs.opensea.io/reference/api-overview) [Mnemonic](https://www.mnemonichq.com/) [Chainstack-NFT-API](https://chainstack.com/nft-api/)[Rarible-SDK](https://docs.rarible.org/) [Center](https://center.app/)	[NFT-Port](https://www.nftport.xyz/) [NiftyKit](https://niftykit.com/) [Mirrorworld](https://mirrorworld.fun/)[Particle-Network](https://particle.network/) [Seaport.js](https://github.com/ProjectOpenSea/seaport-js)
+- Social Interaction Platforms [Lens-protocol](https://www.lens.xyz/) [Farcaster](https://www.farcaster.xyz/) [Cyberconnect](https://galxeecyber.com/) [Orb](https://orb.ac/) [Bluesky](https://blueskyweb.xyz/) [Mask](https://mask.io/)
+- Identity Solutions [Self.ID-SDK](https://self.id/) [SpruceID](https://spruceid.com/)	[World-ID(Worldcoin)](https://worldcoin.org/world-id)	[Space-ID](https://space.id/) [Core-ID(CoreDAO)](https://coredao.id/)	
 
 <h3> 7. Specialized Development Fields: </h3>
 
