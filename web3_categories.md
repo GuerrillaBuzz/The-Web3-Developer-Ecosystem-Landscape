@@ -12,6 +12,9 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 
 <h3> 1. Infrastructure: </h3>
+    | Sub-Categories | Links |
+    | -------------- |-------|
+    | Layered Architecture| [Ethereum](https://ethereum.org/en/) |
 
 - Layered Architecture
     - Layer 1 Blockchains [Ethereum](https://ethereum.org/en/) [Solana](https://solana.com/) [Tron](https://tron.network/) [BNB-Smart-Chain](https://bnbsmartchain.com/) [Avalanche](https://www.avax.network/)	[Cosmos](https://cosmos.network/)	[Bitcoin](https://bitcoin.org/)	[Cardano](https://cardano.org/)	[Algorand](https://algorand.com/)	[Near](https://near.org/)
