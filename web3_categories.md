@@ -13,8 +13,8 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 <h3> 1. Infrastructure: </h3>
 
-    | Header 1 | Header 2 | Header 3 |
-    |: -------- |: -------- |: -------- |
+    | Header 1| Header 2| Header 3|
+    |:--------|:--------|:--------|
     | Content 1| Content 2| Content 3|
     | Content 4| Content 5| Content 6| 
 
