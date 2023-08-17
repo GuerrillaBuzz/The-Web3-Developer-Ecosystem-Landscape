@@ -12,12 +12,6 @@ Through this methodology, we invite you to embark on a journey of discovery, as 
 
 
 <h3> 1. Infrastructure: </h3>
-
-    |Header 1|Header 2|Header 3|
-    |:--------|:--------|:--------|
-    |Content 1|Content 2|Content 3|
-    |Content 4|Content 5|Content 6| 
-
 - Layered Architecture
     - Layer 1 Blockchains [Ethereum](https://ethereum.org/en/) [Solana](https://solana.com/) [Tron](https://tron.network/) [BNB-Smart-Chain](https://bnbsmartchain.com/) [Avalanche](https://www.avax.network/)	[Cosmos](https://cosmos.network/)	[Bitcoin](https://bitcoin.org/)	[Cardano](https://cardano.org/)	[Algorand](https://algorand.com/)	[Near](https://near.org/)
     - Layer 2/Rollups Solutions [Arbitrum](https://arbitrum.io/) [Polygon(Matic)](https://polygon.technology/) 	[Optimism](https://www.optimism.io/) [Zksync-Era](https://zksync.io/)	[Starknet](https://www.starknet.io/)	[Arbitrum-Nova](https://nova.arbitrum.io/)	[Linea](https://linea.build/)	[Scroll](https://scroll.io/)	
